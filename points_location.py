@@ -1,5 +1,5 @@
 #script that allows you to update points location based on x and y field in attribute table
-
+import arcpy
 from arcpy import env
 
 #define workspace location:
